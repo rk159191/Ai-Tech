@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2255C7"/>
+      <stop offset="100%" stop-color="#5FA8D3"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="28" fill="url(#g)"/>
+  <g transform="translate(200,175)" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.92">
+    <rect x="-90" y="-55" width="150" height="95" rx="18"/>
+    <circle cx="-15" cy="-7" r="34"/>
+    <circle cx="-15" cy="-7" r="14" fill="#ffffff" stroke="none"/>
+    <rect x="60" y="-25" width="35" height="35" rx="6"/>
+    <line x1="-90" y1="-30" x2="-125" y2="-45"/>
+  </g>
+  <text x="200" y="330" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" opacity="0.95">DVR 4CH</text>
+</svg>
